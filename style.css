@@ -18,6 +18,7 @@ header {
     padding: 12px 18px;
     display: inline-block;
     text-decoration: none;
+    margin-top: 10px;
 }
 .menu li a:hover {
     background-color: #3B185F;
@@ -27,6 +28,14 @@ header {
     width: 100%;
     max-width: 1200px;
     margin: auto;
+}
+.vesikalik {
+    padding: 5px;
+    background: #f7f5ed;
+    border: 2px solid #cccabc;
+    border-radius: 35%;
+    width: calc(100% - 12px);
+    max-width: 65px;
 }
 .logo {
     font-size: 24px;
@@ -129,4 +138,14 @@ footer .menu li a:hover {
     border-radius: 2px;
     width: calc(100% - 12px);
     max-width: 230px;
+}
+.cv_sayfasi {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+.sehrim_sayfasi {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
 }
