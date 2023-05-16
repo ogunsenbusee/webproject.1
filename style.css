@@ -159,3 +159,7 @@ footer .menu li a:hover {
     max-width: 1200px;
     margin: auto;
 }
+.carousel-item{
+    margin: 150px;
+    padding-left: 360px;
+}
